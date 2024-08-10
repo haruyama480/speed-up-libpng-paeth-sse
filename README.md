@@ -1,5 +1,7 @@
 # speed-up-libpng-paeth-sse
 
+not yet improved
+
 ## requirements
 - g++
 - cmake
