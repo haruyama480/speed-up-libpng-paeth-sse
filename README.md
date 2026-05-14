@@ -33,6 +33,8 @@ BM_AFTER/4096         4398 ns         3894 ns       179185
 BM_AFTER/32768       22509 ns        20845 ns        32746
 ```
 
+BM_AFTER/32768 is +2.6% faster, but BM_AFTER/4096 is -2.3% slower.
+
 ### environments
 AMI
 - CMake on AWS Linux 2023 with maintenance support by Apps4Rent
